@@ -3,5 +3,6 @@
 int main() {
     puts("Hello");
     puts("Hello");
-    puts("hoge");
+    puts("moge");
+    puts("guha");
 }
