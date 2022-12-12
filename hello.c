@@ -2,7 +2,6 @@
 
 int main() {
     puts("Hello");
-    puts("Hello");
-    puts("moge");
-    puts("guha");
+    printf("Hello\n");
+    puts("hogehogehoge");
 }
