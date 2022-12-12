@@ -2,5 +2,5 @@
 
 int main() {
     puts("Hello");
-    perintf("Hello");
+    printf("Hello\n");
 }
