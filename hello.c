@@ -6,5 +6,5 @@ int main() {
     puts("mogemogeomge");
     printf("Hello\n");
     puts("hogehogehoge");
-    puts("mogemogeomge");
+    puts("mogemogeomge"); //
 }
