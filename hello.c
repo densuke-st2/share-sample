@@ -3,4 +3,5 @@
 int main() {
     puts("Hello");
     printf("Hello\n");
+    puts("hogehogehoge");
 }
