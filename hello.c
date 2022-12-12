@@ -8,4 +8,5 @@ int main() {
     puts("hogehogehoge");
     puts("mogemogeomge");
     puts("hogehogehoge");
+    puts("mogemoge");
 }
