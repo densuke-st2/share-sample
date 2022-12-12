@@ -7,4 +7,5 @@ int main() {
     printf("Hello\n");
     puts("hogehogehoge");
     puts("mogemogeomge");
+    puts("hogehogehoge");
 }
